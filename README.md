@@ -1,2 +1,2 @@
-# Test-PA
-It's a repository just for test.
+name: kim dong-min
+std number: 201512084
